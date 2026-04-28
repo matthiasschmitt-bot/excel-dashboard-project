@@ -63,13 +63,13 @@ Das Dashboard enthält u. a.:
 ## 🖼️ Screenshots
 
 ### Dashboard Übersicht
-![Dashboard Übersicht](vorschau_projekt_ex.png)
+![Dashboard Übersicht](vorschau_projekt_ex)
 
 ### KPI-Bereich
-![KPI Bereich](vorschau_projekt_exc.png)
+![KPI Bereich](vorschau_projekt_exc)
 
-### Diagramme & Filter
-![Diagramme und Filter](vorschau_projekt_excel.png)
+### Tabelle & Filter
+![Diagramme und Filter](vorschau_projekt_excel)
 
 ---
 
